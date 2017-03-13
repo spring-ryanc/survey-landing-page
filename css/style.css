@@ -1,0 +1,32 @@
+body {
+    background-color: #00b5ec;
+    color: #fff;
+}
+
+.tagline {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate3d(-5%, -50%, 0);
+    /* transform: translate3d(-5%, -50%, 0); */
+    padding-left: 5%;
+}
+
+h1 {
+    font-size: 62px;
+    font-weight: 300;
+    color: white;
+    line-height: 1.2;
+    margin-bottom: 74px;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 300;
+    color: #b1edff;
+}
+
+h2 a {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+}
