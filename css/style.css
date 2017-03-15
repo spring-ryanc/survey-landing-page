@@ -30,3 +30,10 @@ h2 a {
     font-weight: 700;
     text-decoration: none;
 }
+
+@media (max-width: 768px) {
+    .tagline {
+        position: absolute;
+        top: 10px;
+    }
+}
